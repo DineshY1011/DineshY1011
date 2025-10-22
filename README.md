@@ -2,7 +2,7 @@
 
 Currently a Computer Science Engineering student with IoT specialization
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media2.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif?cid=ecf05e47f9de7egpuz7jjoq5z7herj3em4a95igf3g86msr2&rid=giphy.gif&ct=g">
 
 - I’m currently learning Data Structures and Algorithms (DSA) and integrating AI and IoT into my workflow
 
@@ -25,12 +25,10 @@ Currently a Computer Science Engineering student with IoT specialization
 ---
 
 ### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/AMD_Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ---
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DineshY1011&theme=dark&show_icons=true&&hide=issues,contribs)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/DineshYugarajan?theme=dark&font=Noto%20Traditional%20Nushu)
 
 [![Dinesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DineshY1011&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
