@@ -2,7 +2,7 @@
 
 Currently a Computer Science Engineering student with IoT specialization
 
-<img align="right" width="370" height="290" src="https://media2.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif?cid=ecf05e47f9de7egpuz7jjoq5z7herj3em4a95igf3g86msr2&rid=giphy.gif&ct=g">
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/73125122/189867422-1bf890e4-8fd6-4374-b537-aebf148f7450.gif">
 
 - I’m currently learning Data Structures and Algorithms (DSA) and integrating AI and IoT into my workflow
 
