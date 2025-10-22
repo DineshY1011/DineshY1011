@@ -24,7 +24,11 @@ Currently a Computer Science Engineering student with IoT specialization
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" alt="external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/flat-round/64/influxdb.png" alt="influxdb"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 
 ---
 
@@ -33,13 +37,16 @@ Currently a Computer Science Engineering student with IoT specialization
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
+<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/cursor-ai.png" alt="cursor-ai"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/lovable.png" alt="lovable"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/supabase.png" alt="supabase"/>
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
 ---
 
 ### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/AMD_Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/AMD_Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ---
 
